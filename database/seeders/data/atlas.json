@@ -1,0 +1,5301 @@
+[
+{
+"id_atlas": 1,
+"libelle_structure": "DAKAR",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 31,
+"libelle_structure": "DIOURBEL",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 87,
+"libelle_structure": "FATICK",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 165,
+"libelle_structure": "THIES",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 236,
+"libelle_structure": "MATAM",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 237,
+"libelle_structure": "SÉDHIOU",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 238,
+"libelle_structure": "SAINT-LOUIS",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 239,
+"libelle_structure": "TAMBA",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 241,
+"libelle_structure": "ZIGUINCHOR",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 242,
+"libelle_structure": "KAFFRINE",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 243,
+"libelle_structure": "KAOLACK",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 244,
+"libelle_structure": "KÉDOUGOU",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 245,
+"libelle_structure": "KOLDA",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 246,
+"libelle_structure": "LOUGA",
+"id_parent_atlas": null,
+"id_hierarchie": 8,
+"libelle_hierarchie": "Région"
+},
+{
+"id_atlas": 2,
+"libelle_structure": "IA DAKAR",
+"id_parent_atlas": 1,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 32,
+"libelle_structure": "IA DIOURBEL",
+"id_parent_atlas": 31,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 88,
+"libelle_structure": "IA FATICK",
+"id_parent_atlas": 87,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 145,
+"libelle_structure": "IA RUFISQUE",
+"id_parent_atlas": 1,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 166,
+"libelle_structure": "IA THIES",
+"id_parent_atlas": 165,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 235,
+"libelle_structure": "IA Pikine Guediawaye",
+"id_parent_atlas": 1,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 247,
+"libelle_structure": "IA Matam",
+"id_parent_atlas": 236,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 248,
+"libelle_structure": "IA Sédhiou",
+"id_parent_atlas": 237,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 249,
+"libelle_structure": "IA Saint-Louis",
+"id_parent_atlas": 238,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 250,
+"libelle_structure": "IA Tamba",
+"id_parent_atlas": 239,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 251,
+"libelle_structure": "IA Ziguinchor",
+"id_parent_atlas": 241,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 252,
+"libelle_structure": "IA Kaffrine",
+"id_parent_atlas": 242,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 253,
+"libelle_structure": "IA Kaolack",
+"id_parent_atlas": 243,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 255,
+"libelle_structure": "IA Kédougou",
+"id_parent_atlas": 244,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 256,
+"libelle_structure": "IA Kolda",
+"id_parent_atlas": 245,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 257,
+"libelle_structure": "IA Louga",
+"id_parent_atlas": 246,
+"id_hierarchie": 9,
+"libelle_hierarchie": "IA"
+},
+{
+"id_atlas": 4,
+"libelle_structure": "IEF Almadies",
+"id_parent_atlas": 2,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 10,
+"libelle_structure": "IEF Dakar Plateau",
+"id_parent_atlas": 2,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 17,
+"libelle_structure": "IEF Grand Dakar",
+"id_parent_atlas": 2,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 25,
+"libelle_structure": "IEF Parcelles Assainies",
+"id_parent_atlas": 2,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 34,
+"libelle_structure": "IEF Bambey",
+"id_parent_atlas": 32,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 51,
+"libelle_structure": "IEF Diourbel",
+"id_parent_atlas": 32,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 67,
+"libelle_structure": "IEF Mbacké",
+"id_parent_atlas": 32,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 90,
+"libelle_structure": "IEF Diofior",
+"id_parent_atlas": 88,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 101,
+"libelle_structure": "IEF Fatick",
+"id_parent_atlas": 88,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 114,
+"libelle_structure": "IEF Foundiougne",
+"id_parent_atlas": 88,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 136,
+"libelle_structure": "IEF Gossas",
+"id_parent_atlas": 88,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 147,
+"libelle_structure": "IEF Diamniadio",
+"id_parent_atlas": 145,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 155,
+"libelle_structure": "IEF Rufisque Commune",
+"id_parent_atlas": 145,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 159,
+"libelle_structure": "IEF Sangalkam",
+"id_parent_atlas": 145,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 168,
+"libelle_structure": "IEF Mbour 1",
+"id_parent_atlas": 166,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 179,
+"libelle_structure": "IEF Mbour 2",
+"id_parent_atlas": 166,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 190,
+"libelle_structure": "IEF Thies Commune",
+"id_parent_atlas": 166,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 194,
+"libelle_structure": "IEF Thiès Département",
+"id_parent_atlas": 166,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 211,
+"libelle_structure": "IEF Tivaouane",
+"id_parent_atlas": 166,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 259,
+"libelle_structure": "IEF Ziguinchor",
+"id_parent_atlas": 251,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 261,
+"libelle_structure": "IEF Bakel",
+"id_parent_atlas": 250,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 263,
+"libelle_structure": "IEF Bignona1",
+"id_parent_atlas": 251,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 264,
+"libelle_structure": "IEF Bignona2",
+"id_parent_atlas": 251,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 266,
+"libelle_structure": "IEF Birkelane",
+"id_parent_atlas": 252,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 268,
+"libelle_structure": "IEF Bounkiling",
+"id_parent_atlas": 248,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 270,
+"libelle_structure": "IEF Dagana",
+"id_parent_atlas": 249,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 272,
+"libelle_structure": "IEF Goudiry",
+"id_parent_atlas": 250,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 274,
+"libelle_structure": "IEF Goudomp",
+"id_parent_atlas": 248,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 276,
+"libelle_structure": "IEF Guediawaye",
+"id_parent_atlas": 235,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 278,
+"libelle_structure": "IEF Guinguineo",
+"id_parent_atlas": 253,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 280,
+"libelle_structure": "IEF Kaffrine",
+"id_parent_atlas": 252,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 282,
+"libelle_structure": "IEF Kanel",
+"id_parent_atlas": 247,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 284,
+"libelle_structure": "IEF Kaolack Commune",
+"id_parent_atlas": 253,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 285,
+"libelle_structure": "IEF Kaolack Departement",
+"id_parent_atlas": 253,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 287,
+"libelle_structure": "IEF Kebemer",
+"id_parent_atlas": 257,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 289,
+"libelle_structure": "IEF Kedougou",
+"id_parent_atlas": 255,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 291,
+"libelle_structure": "IEF Keur Massar",
+"id_parent_atlas": 235,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 293,
+"libelle_structure": "IEF Kolda",
+"id_parent_atlas": 256,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 295,
+"libelle_structure": "IEF Koupentoum",
+"id_parent_atlas": 250,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 297,
+"libelle_structure": "IEF Koungheul",
+"id_parent_atlas": 252,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 299,
+"libelle_structure": "IEF Linguere",
+"id_parent_atlas": 257,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 301,
+"libelle_structure": "IEF Louga",
+"id_parent_atlas": 257,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 304,
+"libelle_structure": "IEF Malem Hodar",
+"id_parent_atlas": 252,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 307,
+"libelle_structure": "IEF Matam",
+"id_parent_atlas": 247,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 309,
+"libelle_structure": "IEF Médina Yora Foulah",
+"id_parent_atlas": 256,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 311,
+"libelle_structure": "IEF Nioro",
+"id_parent_atlas": 253,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 313,
+"libelle_structure": "IEF Oussouye",
+"id_parent_atlas": 251,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 314,
+"libelle_structure": "IEF Pikine",
+"id_parent_atlas": 235,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 316,
+"libelle_structure": "IEF Podor",
+"id_parent_atlas": 249,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 318,
+"libelle_structure": "IEF Ranerou Ferlo",
+"id_parent_atlas": 247,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 320,
+"libelle_structure": "IEF Salémata",
+"id_parent_atlas": 255,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 322,
+"libelle_structure": "IEF Saraya",
+"id_parent_atlas": 255,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 324,
+"libelle_structure": "IEF Sédhiou",
+"id_parent_atlas": 248,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 326,
+"libelle_structure": "IEF Saint-Louis Commune",
+"id_parent_atlas": 249,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 327,
+"libelle_structure": "IEF Saint-Louis Departement",
+"id_parent_atlas": 249,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 329,
+"libelle_structure": "IEF Tamba",
+"id_parent_atlas": 250,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 330,
+"libelle_structure": "IEF Thiaroye",
+"id_parent_atlas": 235,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 332,
+"libelle_structure": "IEF Vélingara ",
+"id_parent_atlas": 256,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 333,
+"libelle_structure": "IEF Pété",
+"id_parent_atlas": 249,
+"id_hierarchie": 11,
+"libelle_hierarchie": "IEF"
+},
+{
+"id_atlas": 6,
+"libelle_structure": "Com Mermoz Sacre Coeur",
+"id_parent_atlas": 4,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 7,
+"libelle_structure": "Com Ngor",
+"id_parent_atlas": 4,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 8,
+"libelle_structure": "Com Ouakam",
+"id_parent_atlas": 4,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 9,
+"libelle_structure": "Com Yoff",
+"id_parent_atlas": 4,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 12,
+"libelle_structure": "Com Fann Point E Amitie",
+"id_parent_atlas": 10,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 13,
+"libelle_structure": "Com Fass Gueule Tapee Col",
+"id_parent_atlas": 10,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 14,
+"libelle_structure": "Com Goree",
+"id_parent_atlas": 10,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 15,
+"libelle_structure": "Com Médina",
+"id_parent_atlas": 10,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 16,
+"libelle_structure": "Com Plateau",
+"id_parent_atlas": 10,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 19,
+"libelle_structure": "Com Biscuiterie",
+"id_parent_atlas": 17,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 20,
+"libelle_structure": "Com Dieuppeul Derkle",
+"id_parent_atlas": 17,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 21,
+"libelle_structure": "Com Grand Dakar",
+"id_parent_atlas": 17,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 22,
+"libelle_structure": "Com Hann Bel Air",
+"id_parent_atlas": 17,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 23,
+"libelle_structure": "Com HLM",
+"id_parent_atlas": 17,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 24,
+"libelle_structure": "Com Sicap Liberte",
+"id_parent_atlas": 17,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 27,
+"libelle_structure": "Com Camberene",
+"id_parent_atlas": 25,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 28,
+"libelle_structure": "Com Grand Yoff",
+"id_parent_atlas": 25,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 29,
+"libelle_structure": "Com Parcelles Assainies",
+"id_parent_atlas": 25,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 30,
+"libelle_structure": "Com Patte d'Oie",
+"id_parent_atlas": 25,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 35,
+"libelle_structure": "Art Baba Garage",
+"id_parent_atlas": 34,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 39,
+"libelle_structure": "Art Lambaye",
+"id_parent_atlas": 34,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 44,
+"libelle_structure": "Art Ngoye",
+"id_parent_atlas": 34,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 49,
+"libelle_structure": "Com Bambey",
+"id_parent_atlas": 34,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 52,
+"libelle_structure": "Art Ndindi",
+"id_parent_atlas": 51,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 59,
+"libelle_structure": "Art Ndoulo",
+"id_parent_atlas": 51,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 65,
+"libelle_structure": "Com Diourbel",
+"id_parent_atlas": 51,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 68,
+"libelle_structure": "Art Kael",
+"id_parent_atlas": 67,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 77,
+"libelle_structure": "Art Ndame",
+"id_parent_atlas": 67,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 83,
+"libelle_structure": "Art Taïf",
+"id_parent_atlas": 67,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 86,
+"libelle_structure": "Com Mbacké",
+"id_parent_atlas": 67,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 91,
+"libelle_structure": "Art Fimela",
+"id_parent_atlas": 90,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 96,
+"libelle_structure": "Art Tattaguine",
+"id_parent_atlas": 90,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 100,
+"libelle_structure": "Com Diofior",
+"id_parent_atlas": 90,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 102,
+"libelle_structure": "Art Ndiob",
+"id_parent_atlas": 101,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 107,
+"libelle_structure": "Art Niakhar",
+"id_parent_atlas": 101,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 111,
+"libelle_structure": "Com Diakhao",
+"id_parent_atlas": 101,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 112,
+"libelle_structure": "Com Fatick",
+"id_parent_atlas": 101,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 115,
+"libelle_structure": "Art Djilor",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 121,
+"libelle_structure": "Art Niodior",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 125,
+"libelle_structure": "Art Toubacouta",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 130,
+"libelle_structure": "Com Foundiougne",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 131,
+"libelle_structure": "Com Karang Poste",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 132,
+"libelle_structure": "Com Passy",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 133,
+"libelle_structure": "Com Sokone",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 134,
+"libelle_structure": "Com Soum",
+"id_parent_atlas": 114,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 137,
+"libelle_structure": "Art Colobane",
+"id_parent_atlas": 136,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 140,
+"libelle_structure": "Art Ouadiour",
+"id_parent_atlas": 136,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 144,
+"libelle_structure": "Com Gossas",
+"id_parent_atlas": 136,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 148,
+"libelle_structure": "Art Bambylor",
+"id_parent_atlas": 147,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 150,
+"libelle_structure": "Com Bargny",
+"id_parent_atlas": 147,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 151,
+"libelle_structure": "Com Diamniadio",
+"id_parent_atlas": 147,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 152,
+"libelle_structure": "Com Sébikotane",
+"id_parent_atlas": 147,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 153,
+"libelle_structure": "Com Sendou",
+"id_parent_atlas": 147,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 156,
+"libelle_structure": "Com Rufisque Est",
+"id_parent_atlas": 155,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 157,
+"libelle_structure": "Com Rufisque Nord",
+"id_parent_atlas": 155,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 158,
+"libelle_structure": "Com Rufisque Ouest",
+"id_parent_atlas": 155,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 160,
+"libelle_structure": "Art Bambylor",
+"id_parent_atlas": 159,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 163,
+"libelle_structure": "Com Jaxaay Parcelle Niakoul Ra",
+"id_parent_atlas": 159,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 164,
+"libelle_structure": "Com Sangalkam",
+"id_parent_atlas": 159,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 169,
+"libelle_structure": "Art Sindia",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 173,
+"libelle_structure": "Com Mbour",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 174,
+"libelle_structure": "Com Ngaparou",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 175,
+"libelle_structure": "Com Nguékhokh",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 176,
+"libelle_structure": "Com Popenguine",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 177,
+"libelle_structure": "Com Saly",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 178,
+"libelle_structure": "Com Somone",
+"id_parent_atlas": 168,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 180,
+"libelle_structure": "Art Fissel",
+"id_parent_atlas": 179,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 184,
+"libelle_structure": "Art Sessene",
+"id_parent_atlas": 179,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 187,
+"libelle_structure": "Com Joal",
+"id_parent_atlas": 179,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 188,
+"libelle_structure": "Com Thiadiaye",
+"id_parent_atlas": 179,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 191,
+"libelle_structure": "Com Thies Nord",
+"id_parent_atlas": 190,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 192,
+"libelle_structure": "Com Thies Est",
+"id_parent_atlas": 190,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 193,
+"libelle_structure": "Com Thies Ouest",
+"id_parent_atlas": 190,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 195,
+"libelle_structure": "Art Keur Moussa",
+"id_parent_atlas": 194,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 199,
+"libelle_structure": "Art Notto",
+"id_parent_atlas": 194,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 202,
+"libelle_structure": "Art Thiénaba",
+"id_parent_atlas": 194,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 207,
+"libelle_structure": "Com Kayar",
+"id_parent_atlas": 194,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 208,
+"libelle_structure": "Com Khombole",
+"id_parent_atlas": 194,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 209,
+"libelle_structure": "Com Pout",
+"id_parent_atlas": 194,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 212,
+"libelle_structure": "Art Meouane",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 217,
+"libelle_structure": "Art Merina Dakhar",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 221,
+"libelle_structure": "Art Niakhene",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 226,
+"libelle_structure": "Art Pambal",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 232,
+"libelle_structure": "Com MBoro",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 233,
+"libelle_structure": "Com Mékhé",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 234,
+"libelle_structure": "Com Tivaouane",
+"id_parent_atlas": 211,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 334,
+"libelle_structure": "Art keur Mbouki",
+"id_parent_atlas": 266,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 338,
+"libelle_structure": "Art Mabo",
+"id_parent_atlas": 266,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 343,
+"libelle_structure": "Com Birkelane",
+"id_parent_atlas": 266,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 344,
+"libelle_structure": "Art Gniby",
+"id_parent_atlas": 280,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 348,
+"libelle_structure": "Art Katakel",
+"id_parent_atlas": 280,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 353,
+"libelle_structure": "Com Kaffrine",
+"id_parent_atlas": 280,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 354,
+"libelle_structure": "Com Nganda",
+"id_parent_atlas": 280,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 355,
+"libelle_structure": "Art Ida Mouride",
+"id_parent_atlas": 297,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 359,
+"libelle_structure": "Art Lour Escale",
+"id_parent_atlas": 297,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 362,
+"libelle_structure": "Art Missirah Wadene",
+"id_parent_atlas": 297,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 366,
+"libelle_structure": "Com Koungheul",
+"id_parent_atlas": 297,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 367,
+"libelle_structure": "Art Darou Minam 2",
+"id_parent_atlas": 304,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 371,
+"libelle_structure": "Art Sagna",
+"id_parent_atlas": 304,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 374,
+"libelle_structure": "Com Malem Hoddar",
+"id_parent_atlas": 304,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 375,
+"libelle_structure": "Art Mbadakhoune",
+"id_parent_atlas": 278,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 380,
+"libelle_structure": "Art Nguelou",
+"id_parent_atlas": 278,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 386,
+"libelle_structure": "Com Fass",
+"id_parent_atlas": 278,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 387,
+"libelle_structure": "Com Guinguineo",
+"id_parent_atlas": 278,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 388,
+"libelle_structure": "Com Mboss",
+"id_parent_atlas": 278,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 389,
+"libelle_structure": "Com Kaolack",
+"id_parent_atlas": 284,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 390,
+"libelle_structure": "Art Koumbal",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 394,
+"libelle_structure": "Art Ndiendieng",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 398,
+"libelle_structure": "Art Ngothie",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 402,
+"libelle_structure": "Com Gandiaye",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 403,
+"libelle_structure": "Com Kahone",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 404,
+"libelle_structure": "Com Ndoffane",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 405,
+"libelle_structure": "Com Sibassor",
+"id_parent_atlas": 285,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 406,
+"libelle_structure": "Art Médina Sabakh",
+"id_parent_atlas": 311,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 410,
+"libelle_structure": "Art Paoskoto",
+"id_parent_atlas": 311,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 417,
+"libelle_structure": "Art Wack Gouna",
+"id_parent_atlas": 311,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 422,
+"libelle_structure": "Com Keur Madiabel",
+"id_parent_atlas": 311,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 423,
+"libelle_structure": "Com Nioro",
+"id_parent_atlas": 311,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 424,
+"libelle_structure": "Art Bandafassi",
+"id_parent_atlas": 289,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 429,
+"libelle_structure": "Art Fongolimbi",
+"id_parent_atlas": 289,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 432,
+"libelle_structure": "Com Kedougou",
+"id_parent_atlas": 289,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 433,
+"libelle_structure": "Art Dakateli",
+"id_parent_atlas": 320,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 436,
+"libelle_structure": "Art Dar Salam",
+"id_parent_atlas": 320,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 440,
+"libelle_structure": "Com Salemata",
+"id_parent_atlas": 320,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 441,
+"libelle_structure": "Art Bembou",
+"id_parent_atlas": 322,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 444,
+"libelle_structure": "Art Sabodola",
+"id_parent_atlas": 322,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 448,
+"libelle_structure": "Com Saraya",
+"id_parent_atlas": 322,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 449,
+"libelle_structure": "Art Dioulacolon",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 454,
+"libelle_structure": "Art Mampatim",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 460,
+"libelle_structure": "Art Sare Bidji",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 463,
+"libelle_structure": "Com Dabo",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 464,
+"libelle_structure": "Com Kolda",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 465,
+"libelle_structure": "Com Salikegne",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 466,
+"libelle_structure": "Com Sare Yoba Diega",
+"id_parent_atlas": 293,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 467,
+"libelle_structure": "Art Fafacourou",
+"id_parent_atlas": 309,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 470,
+"libelle_structure": "Art Ndorna",
+"id_parent_atlas": 309,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 475,
+"libelle_structure": "Art Niaming",
+"id_parent_atlas": 309,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 479,
+"libelle_structure": "Com Medina Yoro Foulah",
+"id_parent_atlas": 309,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 480,
+"libelle_structure": "Com Pata",
+"id_parent_atlas": 309,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 481,
+"libelle_structure": "Art Bonconto",
+"id_parent_atlas": 332,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 486,
+"libelle_structure": "Art Pakour",
+"id_parent_atlas": 332,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 490,
+"libelle_structure": "Art Sare Coly Salle",
+"id_parent_atlas": 332,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 495,
+"libelle_structure": "Com Diaobe Kabendou",
+"id_parent_atlas": 332,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 496,
+"libelle_structure": "Com Kounkane",
+"id_parent_atlas": 332,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 497,
+"libelle_structure": "Com Velingara",
+"id_parent_atlas": 332,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 498,
+"libelle_structure": "Art Darou Mousty",
+"id_parent_atlas": 287,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 506,
+"libelle_structure": "Art Ndande",
+"id_parent_atlas": 287,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 512,
+"libelle_structure": "Art Sagatta Gueth",
+"id_parent_atlas": 287,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 518,
+"libelle_structure": "Com Gueoul",
+"id_parent_atlas": 287,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 519,
+"libelle_structure": "Com Kébémer",
+"id_parent_atlas": 287,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 520,
+"libelle_structure": "Art Barkedji",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 525,
+"libelle_structure": "Art Dodji",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 529,
+"libelle_structure": "Art Sagatta Djolof",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 535,
+"libelle_structure": "Art Yang Yang",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 540,
+"libelle_structure": "Com Dahra",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 541,
+"libelle_structure": "Com Linguère",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 542,
+"libelle_structure": "Com Mbeuleukhe",
+"id_parent_atlas": 299,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 543,
+"libelle_structure": "Art Keur Momar Sarr",
+"id_parent_atlas": 301,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 548,
+"libelle_structure": "Art Koki",
+"id_parent_atlas": 301,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 553,
+"libelle_structure": "Art Mbediene",
+"id_parent_atlas": 301,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 558,
+"libelle_structure": "Art Sakal",
+"id_parent_atlas": 301,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 562,
+"libelle_structure": "Com Louga",
+"id_parent_atlas": 301,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 563,
+"libelle_structure": "Com Ndiagne",
+"id_parent_atlas": 301,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 564,
+"libelle_structure": "Art Orkadiere",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 568,
+"libelle_structure": "Art Ouro Sidy",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 571,
+"libelle_structure": "Com Dembancane",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 572,
+"libelle_structure": "Com Hamady Ounare",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 573,
+"libelle_structure": "Com Kanel",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 574,
+"libelle_structure": "Com Odobere",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 575,
+"libelle_structure": "Com Semme",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 576,
+"libelle_structure": "Com Sinthiou Bamambe Banadji",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 577,
+"libelle_structure": "Com Waounde",
+"id_parent_atlas": 282,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 578,
+"libelle_structure": "Art Agnam Civol",
+"id_parent_atlas": 307,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 582,
+"libelle_structure": "Art Ogo",
+"id_parent_atlas": 307,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 586,
+"libelle_structure": "Com Matam",
+"id_parent_atlas": 307,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 587,
+"libelle_structure": "Com Nguidilogne",
+"id_parent_atlas": 307,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 588,
+"libelle_structure": "Com Ourossogui",
+"id_parent_atlas": 307,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 589,
+"libelle_structure": "Com Thilogne",
+"id_parent_atlas": 307,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 590,
+"libelle_structure": "Art Velingara",
+"id_parent_atlas": 318,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 594,
+"libelle_structure": "Com Ranerou",
+"id_parent_atlas": 318,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 595,
+"libelle_structure": "Com Golf Sud",
+"id_parent_atlas": 276,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 597,
+"libelle_structure": "Com Medina Gounass",
+"id_parent_atlas": 276,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 598,
+"libelle_structure": "Com Ndiareme Limamoulaye",
+"id_parent_atlas": 276,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 599,
+"libelle_structure": "Com Sam Notaire",
+"id_parent_atlas": 276,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 600,
+"libelle_structure": "Com Wakhinane Nimzatt",
+"id_parent_atlas": 276,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 601,
+"libelle_structure": "Com Keur Massar Nord",
+"id_parent_atlas": 291,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 602,
+"libelle_structure": "Com Malika",
+"id_parent_atlas": 291,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 603,
+"libelle_structure": "Com Yeumbeul Nord",
+"id_parent_atlas": 291,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 604,
+"libelle_structure": "Com Yeumbeul Sud",
+"id_parent_atlas": 291,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 605,
+"libelle_structure": "Com Dalifort",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 606,
+"libelle_structure": "Com Djidah Thiaroye Kao",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 607,
+"libelle_structure": "Com Guinaw Rail Nord",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 608,
+"libelle_structure": "Com Guinaw Rail Sud",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 609,
+"libelle_structure": "Com Pikine Est",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 610,
+"libelle_structure": "Com Pikine Nord",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 611,
+"libelle_structure": "Com Pikine Ouest",
+"id_parent_atlas": 314,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 612,
+"libelle_structure": "Com Diamaguene Sicap Mbao",
+"id_parent_atlas": 330,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 613,
+"libelle_structure": "Com Mbao",
+"id_parent_atlas": 330,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 614,
+"libelle_structure": "Com Thiaroye Gare",
+"id_parent_atlas": 330,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 615,
+"libelle_structure": "Com Thiaroye sur Mer",
+"id_parent_atlas": 330,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 616,
+"libelle_structure": "Com Tivaouane Diaksao",
+"id_parent_atlas": 330,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 617,
+"libelle_structure": "Art Boghal",
+"id_parent_atlas": 268,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 623,
+"libelle_structure": "Art Bona",
+"id_parent_atlas": 268,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 628,
+"libelle_structure": "Art Diaroume",
+"id_parent_atlas": 268,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 632,
+"libelle_structure": "Com Bounkiling",
+"id_parent_atlas": 268,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 633,
+"libelle_structure": "Com Medina Wandifa",
+"id_parent_atlas": 268,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 634,
+"libelle_structure": "Com Ndiamacouta",
+"id_parent_atlas": 268,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 635,
+"libelle_structure": "Art Djibanar",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 641,
+"libelle_structure": "Art Karantaba",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 644,
+"libelle_structure": "Art Simbandi Brassou",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 649,
+"libelle_structure": "Com Diattacounda",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 650,
+"libelle_structure": "Com Goudomp",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 651,
+"libelle_structure": "Com Samine",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 652,
+"libelle_structure": "Com Tanaff",
+"id_parent_atlas": 274,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 653,
+"libelle_structure": "Art Diende",
+"id_parent_atlas": 324,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 659,
+"libelle_structure": "Art Djibabouya",
+"id_parent_atlas": 324,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 663,
+"libelle_structure": "Art Djiredji",
+"id_parent_atlas": 324,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 666,
+"libelle_structure": "Com Dianah Malary",
+"id_parent_atlas": 324,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 667,
+"libelle_structure": "Com Marsassoum",
+"id_parent_atlas": 324,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 668,
+"libelle_structure": "Com Sedhiou",
+"id_parent_atlas": 324,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 669,
+"libelle_structure": "Art Mbane",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 672,
+"libelle_structure": "Art Ndiaye",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 676,
+"libelle_structure": "Com Dagana",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 677,
+"libelle_structure": "Com Gae",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 678,
+"libelle_structure": "Com Ndombo Sandjiry",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 679,
+"libelle_structure": "Com Richard Toll",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 680,
+"libelle_structure": "Com Ross Bethio",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 681,
+"libelle_structure": "Com Rosso Senegal",
+"id_parent_atlas": 270,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 682,
+"libelle_structure": "Art Cas Cas",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 686,
+"libelle_structure": "Art Salde",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 689,
+"libelle_structure": "Com Aere Lao",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 690,
+"libelle_structure": "Com Bode Lao",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 691,
+"libelle_structure": "Com Galloya Toucouleur",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 692,
+"libelle_structure": "Com Gollere",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 693,
+"libelle_structure": "Com Mboumba",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 694,
+"libelle_structure": "Com Pete",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 695,
+"libelle_structure": "Com Walalde",
+"id_parent_atlas": 333,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 696,
+"libelle_structure": "Art Gamadji Sare",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 700,
+"libelle_structure": "Art Thille Boubacar",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 703,
+"libelle_structure": "Com Demette",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 704,
+"libelle_structure": "Com Guede Chantier",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 705,
+"libelle_structure": "Com NDiandane",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 706,
+"libelle_structure": "Com Ndioum",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 707,
+"libelle_structure": "Com Podor",
+"id_parent_atlas": 316,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 708,
+"libelle_structure": "Com Saint-Louis",
+"id_parent_atlas": 326,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 709,
+"libelle_structure": "Art Rao",
+"id_parent_atlas": 327,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 713,
+"libelle_structure": "Com Mpal",
+"id_parent_atlas": 327,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 714,
+"libelle_structure": "Art Bele",
+"id_parent_atlas": 261,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 717,
+"libelle_structure": "Art Keniaba",
+"id_parent_atlas": 261,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 722,
+"libelle_structure": "Art Moudery",
+"id_parent_atlas": 261,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 726,
+"libelle_structure": "Com Bakel",
+"id_parent_atlas": 261,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 727,
+"libelle_structure": "Com Diawara",
+"id_parent_atlas": 261,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 728,
+"libelle_structure": "Com Kidira",
+"id_parent_atlas": 261,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 729,
+"libelle_structure": "Art Bala",
+"id_parent_atlas": 272,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 734,
+"libelle_structure": "Art Boynguel Bamba",
+"id_parent_atlas": 272,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 739,
+"libelle_structure": "Art Dianke Makha",
+"id_parent_atlas": 272,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 744,
+"libelle_structure": "Art Koulor",
+"id_parent_atlas": 272,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 747,
+"libelle_structure": "Com Goudiry",
+"id_parent_atlas": 272,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 748,
+"libelle_structure": "Com Kothiary",
+"id_parent_atlas": 272,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 749,
+"libelle_structure": "Art Bamba Thialene",
+"id_parent_atlas": 295,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 754,
+"libelle_structure": "Art Kouthiaba Wolof",
+"id_parent_atlas": 295,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 759,
+"libelle_structure": "Com Malem Niani",
+"id_parent_atlas": 295,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 760,
+"libelle_structure": "Com Koumpentoun",
+"id_parent_atlas": 295,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 761,
+"libelle_structure": "Art Koussanar",
+"id_parent_atlas": 329,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 764,
+"libelle_structure": "Art Makakolibantang",
+"id_parent_atlas": 329,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 768,
+"libelle_structure": "Art Missirah",
+"id_parent_atlas": 329,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 772,
+"libelle_structure": "Com Tamba",
+"id_parent_atlas": 329,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 773,
+"libelle_structure": "Art Sindian",
+"id_parent_atlas": 263,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 778,
+"libelle_structure": "Art Tenghory",
+"id_parent_atlas": 263,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 783,
+"libelle_structure": "Com Bignona",
+"id_parent_atlas": 263,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 784,
+"libelle_structure": "Art Kataba 1",
+"id_parent_atlas": 264,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 788,
+"libelle_structure": "Art Tendouck",
+"id_parent_atlas": 264,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 794,
+"libelle_structure": "Com Diouloulou",
+"id_parent_atlas": 264,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 795,
+"libelle_structure": "Com Thionck Essyl",
+"id_parent_atlas": 264,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 796,
+"libelle_structure": "Art Cabrousse",
+"id_parent_atlas": 313,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 799,
+"libelle_structure": "Art Loudia Wolof",
+"id_parent_atlas": 313,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 802,
+"libelle_structure": "Com Oussouye",
+"id_parent_atlas": 313,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 803,
+"libelle_structure": "Art Niaguis",
+"id_parent_atlas": 259,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 807,
+"libelle_structure": "Art Niassia",
+"id_parent_atlas": 259,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 810,
+"libelle_structure": "Com Ziguinchor",
+"id_parent_atlas": 259,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 813,
+"libelle_structure": "Com Keur Massar Sud",
+"id_parent_atlas": 291,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 814,
+"libelle_structure": "Com Jaxaay-Parcelles",
+"id_parent_atlas": 291,
+"id_hierarchie": 12,
+"libelle_hierarchie": "Arrondissement/Commune Ville"
+},
+{
+"id_atlas": 36,
+"libelle_structure": "Com Baba Garage",
+"id_parent_atlas": 35,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 37,
+"libelle_structure": "Com Dinguiraye",
+"id_parent_atlas": 35,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 38,
+"libelle_structure": "Com Keur Samba Kane",
+"id_parent_atlas": 35,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 40,
+"libelle_structure": "Com Gawane",
+"id_parent_atlas": 39,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 41,
+"libelle_structure": "Com Lambaye",
+"id_parent_atlas": 39,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 42,
+"libelle_structure": "Com Ngogom",
+"id_parent_atlas": 39,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 43,
+"libelle_structure": "Com Refane",
+"id_parent_atlas": 39,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 45,
+"libelle_structure": "Com Dangalma",
+"id_parent_atlas": 44,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 46,
+"libelle_structure": "Com Ndondol",
+"id_parent_atlas": 44,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 47,
+"libelle_structure": "Com Ngoye",
+"id_parent_atlas": 44,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 48,
+"libelle_structure": "Com Thiakar",
+"id_parent_atlas": 44,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 53,
+"libelle_structure": "Com Dankh Sene",
+"id_parent_atlas": 52,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 54,
+"libelle_structure": "Com Gade escale",
+"id_parent_atlas": 52,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 55,
+"libelle_structure": "Com Keur Ngalgou",
+"id_parent_atlas": 52,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 56,
+"libelle_structure": "Com Ndindi",
+"id_parent_atlas": 52,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 57,
+"libelle_structure": "Com Taiba Moutoupha",
+"id_parent_atlas": 52,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 58,
+"libelle_structure": "Com Touba Lappe",
+"id_parent_atlas": 52,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 60,
+"libelle_structure": "Com Ndoulo",
+"id_parent_atlas": 59,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 61,
+"libelle_structure": "Com Ngohé",
+"id_parent_atlas": 59,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 62,
+"libelle_structure": "Com Pattar",
+"id_parent_atlas": 59,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 63,
+"libelle_structure": "Com Tocky Gare",
+"id_parent_atlas": 59,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 64,
+"libelle_structure": "Com Toure Mbonde",
+"id_parent_atlas": 59,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 69,
+"libelle_structure": "Com Dandeye Gouye Gui ",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 70,
+"libelle_structure": "Com Darou Nahim",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 71,
+"libelle_structure": "Com Darou Salam Typ",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 72,
+"libelle_structure": "Com Kael",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 73,
+"libelle_structure": "Com Madina",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 74,
+"libelle_structure": "Com Ndioumane Thiekene",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 75,
+"libelle_structure": "Com Taiba Tieckene",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 76,
+"libelle_structure": "Com Touba Mboul",
+"id_parent_atlas": 68,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 78,
+"libelle_structure": "Com Dalla Ngabou",
+"id_parent_atlas": 77,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 79,
+"libelle_structure": "Com Missirah",
+"id_parent_atlas": 77,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 80,
+"libelle_structure": "Com Nghaye",
+"id_parent_atlas": 77,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 81,
+"libelle_structure": "Com Touba Fall",
+"id_parent_atlas": 77,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 82,
+"libelle_structure": "Com Touba Mosquee",
+"id_parent_atlas": 77,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 84,
+"libelle_structure": "Com Sadio",
+"id_parent_atlas": 83,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 85,
+"libelle_structure": "Com Taif",
+"id_parent_atlas": 83,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 92,
+"libelle_structure": "Com Djilass",
+"id_parent_atlas": 91,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 93,
+"libelle_structure": "Com Fimela",
+"id_parent_atlas": 91,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 94,
+"libelle_structure": "Com Loul Sessene",
+"id_parent_atlas": 91,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 95,
+"libelle_structure": "Com Palmarin Facao",
+"id_parent_atlas": 91,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 97,
+"libelle_structure": "Com Diarere",
+"id_parent_atlas": 96,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 98,
+"libelle_structure": "Com Diouroup",
+"id_parent_atlas": 96,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 99,
+"libelle_structure": "Com Tattaguine",
+"id_parent_atlas": 96,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 103,
+"libelle_structure": "Com Diaoule",
+"id_parent_atlas": 102,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 104,
+"libelle_structure": "Com Mbellacadiao",
+"id_parent_atlas": 102,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 105,
+"libelle_structure": "Com Ndiob",
+"id_parent_atlas": 102,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 106,
+"libelle_structure": "Com Thiare Ndiagui",
+"id_parent_atlas": 102,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 108,
+"libelle_structure": "Com Ngayokhene",
+"id_parent_atlas": 107,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 109,
+"libelle_structure": "Com Niakhar",
+"id_parent_atlas": 107,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 110,
+"libelle_structure": "Com Patar",
+"id_parent_atlas": 107,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 116,
+"libelle_structure": "Com Diagane Barka",
+"id_parent_atlas": 115,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 117,
+"libelle_structure": "Com Diossong",
+"id_parent_atlas": 115,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 118,
+"libelle_structure": "Com Djilor",
+"id_parent_atlas": 115,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 119,
+"libelle_structure": "Com Mbam",
+"id_parent_atlas": 115,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 120,
+"libelle_structure": "Com Niassene",
+"id_parent_atlas": 115,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 122,
+"libelle_structure": "Com Bassoul",
+"id_parent_atlas": 121,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 123,
+"libelle_structure": "Com Dionewar",
+"id_parent_atlas": 121,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 124,
+"libelle_structure": "Com Djirnda",
+"id_parent_atlas": 121,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 126,
+"libelle_structure": "Com Keur Saloum Diane",
+"id_parent_atlas": 125,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 127,
+"libelle_structure": "Com Keur Samba Gueye",
+"id_parent_atlas": 125,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 128,
+"libelle_structure": "Com Nioro Alassane Tall",
+"id_parent_atlas": 125,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 129,
+"libelle_structure": "Com Toubacouta",
+"id_parent_atlas": 125,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 138,
+"libelle_structure": "Com Colobane",
+"id_parent_atlas": 137,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 139,
+"libelle_structure": "Com Mbar",
+"id_parent_atlas": 137,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 141,
+"libelle_structure": "Com Ndiene Lagane",
+"id_parent_atlas": 140,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 142,
+"libelle_structure": "Com Ouadiour",
+"id_parent_atlas": 140,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 143,
+"libelle_structure": "Com Patar Lia",
+"id_parent_atlas": 140,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 149,
+"libelle_structure": "Com Yene",
+"id_parent_atlas": 148,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 161,
+"libelle_structure": "Com Bambylor",
+"id_parent_atlas": 160,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 162,
+"libelle_structure": "Com Tivaouane Peulh-Niagha",
+"id_parent_atlas": 160,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 170,
+"libelle_structure": "Com Diass",
+"id_parent_atlas": 169,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 171,
+"libelle_structure": "Com Malicounda",
+"id_parent_atlas": 169,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 172,
+"libelle_structure": "Com Sindia",
+"id_parent_atlas": 169,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 181,
+"libelle_structure": "Com Fissel",
+"id_parent_atlas": 180,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 182,
+"libelle_structure": "Com Ndiaganiao",
+"id_parent_atlas": 180,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 183,
+"libelle_structure": "Com Ngueniene",
+"id_parent_atlas": 184,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 185,
+"libelle_structure": "Com Sandiara",
+"id_parent_atlas": 184,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 186,
+"libelle_structure": "Com Sessene",
+"id_parent_atlas": 184,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 196,
+"libelle_structure": "Com Diender Guedji",
+"id_parent_atlas": 195,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 197,
+"libelle_structure": "Com Fandene",
+"id_parent_atlas": 195,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 198,
+"libelle_structure": "Com Keur Moussa",
+"id_parent_atlas": 195,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 200,
+"libelle_structure": "Com Notto",
+"id_parent_atlas": 199,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 201,
+"libelle_structure": "Com Tassette",
+"id_parent_atlas": 199,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 203,
+"libelle_structure": "Com Ndieyene Sirah",
+"id_parent_atlas": 202,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 204,
+"libelle_structure": "Com Ngoudiane",
+"id_parent_atlas": 202,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 205,
+"libelle_structure": "Com Thienaba",
+"id_parent_atlas": 202,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 206,
+"libelle_structure": "Com Touba Toul",
+"id_parent_atlas": 202,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 213,
+"libelle_structure": "Com Darou khoudoss",
+"id_parent_atlas": 212,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 214,
+"libelle_structure": "Com Meouane",
+"id_parent_atlas": 212,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 215,
+"libelle_structure": "Com Meouane",
+"id_parent_atlas": 212,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 216,
+"libelle_structure": "Com Taiba Ndiaye",
+"id_parent_atlas": 212,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 218,
+"libelle_structure": "Com Koul",
+"id_parent_atlas": 217,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 219,
+"libelle_structure": "Com Merina Dakhar",
+"id_parent_atlas": 217,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 220,
+"libelle_structure": "Com Pekesse",
+"id_parent_atlas": 217,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 222,
+"libelle_structure": "Com Mbayene",
+"id_parent_atlas": 221,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 223,
+"libelle_structure": "Com Ngandiouf",
+"id_parent_atlas": 221,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 224,
+"libelle_structure": "Com Niakhene",
+"id_parent_atlas": 221,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 225,
+"libelle_structure": "Com Thilmakha",
+"id_parent_atlas": 221,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 227,
+"libelle_structure": "Com Cherif LO",
+"id_parent_atlas": 226,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 228,
+"libelle_structure": "Com Mont Rolland",
+"id_parent_atlas": 226,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 229,
+"libelle_structure": "Com Notto Gouye Diama",
+"id_parent_atlas": 226,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 230,
+"libelle_structure": "Com Pambal",
+"id_parent_atlas": 226,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 231,
+"libelle_structure": "Com Pire Goureye",
+"id_parent_atlas": 226,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 335,
+"libelle_structure": "Com Diamal",
+"id_parent_atlas": 334,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 336,
+"libelle_structure": "Com Keur Mbouki",
+"id_parent_atlas": 334,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 337,
+"libelle_structure": "Com Touba Mbella",
+"id_parent_atlas": 334,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 339,
+"libelle_structure": "Com Mabo",
+"id_parent_atlas": 338,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 340,
+"libelle_structure": "Com Mbeuleup",
+"id_parent_atlas": 338,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 341,
+"libelle_structure": "Com Ndiognick",
+"id_parent_atlas": 338,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 342,
+"libelle_structure": "Com Ségré gatta",
+"id_parent_atlas": 338,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 345,
+"libelle_structure": "Com Boulel",
+"id_parent_atlas": 344,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 346,
+"libelle_structure": "Com Gniby",
+"id_parent_atlas": 344,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 347,
+"libelle_structure": "Com Kahi",
+"id_parent_atlas": 344,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 349,
+"libelle_structure": "Com Diamagadio",
+"id_parent_atlas": 348,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 350,
+"libelle_structure": "Com Diokoul Mbelbouck",
+"id_parent_atlas": 348,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 351,
+"libelle_structure": "Com Kathiote",
+"id_parent_atlas": 348,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 352,
+"libelle_structure": "Com Medinatoul Salam 2",
+"id_parent_atlas": 348,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 356,
+"libelle_structure": "Com Fass Thiekene",
+"id_parent_atlas": 355,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 357,
+"libelle_structure": "Com Ida Mouride",
+"id_parent_atlas": 355,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 358,
+"libelle_structure": "Com Saly Escale",
+"id_parent_atlas": 355,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 360,
+"libelle_structure": "Com Lour Escale",
+"id_parent_atlas": 359,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 361,
+"libelle_structure": "Com Ribot Escale",
+"id_parent_atlas": 359,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 363,
+"libelle_structure": "Com Gainthe Pathe",
+"id_parent_atlas": 362,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 364,
+"libelle_structure": "Com Maka Yop",
+"id_parent_atlas": 362,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 365,
+"libelle_structure": "Com Missirah Wadene",
+"id_parent_atlas": 362,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 368,
+"libelle_structure": "Com Darou Minam 2",
+"id_parent_atlas": 367,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 369,
+"libelle_structure": "Com Ndiobene samba lamo",
+"id_parent_atlas": 367,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 370,
+"libelle_structure": "Com Ndioum Ngainth",
+"id_parent_atlas": 367,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 372,
+"libelle_structure": "Com Dianke Souf",
+"id_parent_atlas": 371,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 373,
+"libelle_structure": "Com Sagna",
+"id_parent_atlas": 371,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 376,
+"libelle_structure": "Com Khelcom Birame",
+"id_parent_atlas": 375,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 377,
+"libelle_structure": "Com Mbadakhoune",
+"id_parent_atlas": 375,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 378,
+"libelle_structure": "Com Ndiago",
+"id_parent_atlas": 375,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 379,
+"libelle_structure": "Com Ngathie Naoude",
+"id_parent_atlas": 375,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 381,
+"libelle_structure": "Com Dara Mboss",
+"id_parent_atlas": 380,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 382,
+"libelle_structure": "Com Gagnick",
+"id_parent_atlas": 380,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 383,
+"libelle_structure": "Com Nguelou",
+"id_parent_atlas": 380,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 384,
+"libelle_structure": "Com Ourour",
+"id_parent_atlas": 380,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 385,
+"libelle_structure": "Com Panal ouolof",
+"id_parent_atlas": 380,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 391,
+"libelle_structure": "Com Keur Baka",
+"id_parent_atlas": 390,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 392,
+"libelle_structure": "Com Latmingué",
+"id_parent_atlas": 390,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 393,
+"libelle_structure": "Com Thiaré",
+"id_parent_atlas": 390,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 395,
+"libelle_structure": "Com Keur Socé",
+"id_parent_atlas": 394,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 396,
+"libelle_structure": "Com Ndiafate",
+"id_parent_atlas": 394,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 397,
+"libelle_structure": "Com Ndiendieng",
+"id_parent_atlas": 394,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 399,
+"libelle_structure": "Com Dya",
+"id_parent_atlas": 398,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 400,
+"libelle_structure": "Com Ndiebel",
+"id_parent_atlas": 398,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 401,
+"libelle_structure": "Com Thiomby",
+"id_parent_atlas": 398,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 407,
+"libelle_structure": "Com Kayemor",
+"id_parent_atlas": 406,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 408,
+"libelle_structure": "Com Madina Sabakh",
+"id_parent_atlas": 406,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 409,
+"libelle_structure": "Com Ngayène",
+"id_parent_atlas": 406,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 411,
+"libelle_structure": "Com Dabaly",
+"id_parent_atlas": 410,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 412,
+"libelle_structure": "Com Darou Salam",
+"id_parent_atlas": 410,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 413,
+"libelle_structure": "Com Gainte Kaye",
+"id_parent_atlas": 410,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 414,
+"libelle_structure": "Com Paoskoto",
+"id_parent_atlas": 410,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 415,
+"libelle_structure": "Com Prokhane",
+"id_parent_atlas": 410,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 416,
+"libelle_structure": "Com Taiba Niassène",
+"id_parent_atlas": 410,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 418,
+"libelle_structure": "Com Keur Maba Diakhou",
+"id_parent_atlas": 417,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 419,
+"libelle_structure": "Com Keur Mandongo",
+"id_parent_atlas": 417,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 420,
+"libelle_structure": "Com Ndramé Escale",
+"id_parent_atlas": 417,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 421,
+"libelle_structure": "Com Wack Ngouna",
+"id_parent_atlas": 417,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 425,
+"libelle_structure": "Com Bandafassi",
+"id_parent_atlas": 424,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 426,
+"libelle_structure": "Com Dindéfélo",
+"id_parent_atlas": 424,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 427,
+"libelle_structure": "Com Ninefecha",
+"id_parent_atlas": 424,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 428,
+"libelle_structure": "Com Tomboronkoto",
+"id_parent_atlas": 424,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 430,
+"libelle_structure": "Com Dimboli",
+"id_parent_atlas": 429,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 431,
+"libelle_structure": "Com Fongolimbi",
+"id_parent_atlas": 429,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 434,
+"libelle_structure": "Com Dakateli",
+"id_parent_atlas": 433,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 435,
+"libelle_structure": "Com Kévoye",
+"id_parent_atlas": 433,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 437,
+"libelle_structure": "Com Dar Salam ",
+"id_parent_atlas": 436,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 438,
+"libelle_structure": "Com Ethiolo",
+"id_parent_atlas": 436,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 439,
+"libelle_structure": "Com Oubadji",
+"id_parent_atlas": 436,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 442,
+"libelle_structure": "Com Bembou",
+"id_parent_atlas": 441,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 443,
+"libelle_structure": "Com Medina Baffe",
+"id_parent_atlas": 441,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 445,
+"libelle_structure": "Com Khossanto",
+"id_parent_atlas": 444,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 446,
+"libelle_structure": "Com Missirah Sirimana",
+"id_parent_atlas": 444,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 447,
+"libelle_structure": "Com Sabodola",
+"id_parent_atlas": 444,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 450,
+"libelle_structure": "Com Dioulacolon",
+"id_parent_atlas": 449,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 451,
+"libelle_structure": "Com Guiro Yero Bocar",
+"id_parent_atlas": 449,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 452,
+"libelle_structure": "Com Medina Elhadji",
+"id_parent_atlas": 449,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 453,
+"libelle_structure": "Com Tankanto Escale",
+"id_parent_atlas": 449,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 455,
+"libelle_structure": "Com Bagadadji",
+"id_parent_atlas": 454,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 456,
+"libelle_structure": "Com Coumbacara",
+"id_parent_atlas": 454,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 457,
+"libelle_structure": "Com Dialambere",
+"id_parent_atlas": 454,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 458,
+"libelle_structure": "Com Mampatim",
+"id_parent_atlas": 454,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 459,
+"libelle_structure": "Com Medina Cherif",
+"id_parent_atlas": 454,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 461,
+"libelle_structure": "Com Sare Bidji",
+"id_parent_atlas": 460,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 462,
+"libelle_structure": "Com Thietty",
+"id_parent_atlas": 460,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 468,
+"libelle_structure": "Com Badion",
+"id_parent_atlas": 467,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 469,
+"libelle_structure": "Com Fafacourou",
+"id_parent_atlas": 467,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 471,
+"libelle_structure": "Com Bignarabe",
+"id_parent_atlas": 470,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 472,
+"libelle_structure": "Com Bourouco",
+"id_parent_atlas": 470,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 473,
+"libelle_structure": "Com Koulinto",
+"id_parent_atlas": 470,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 474,
+"libelle_structure": "Com Ndorna",
+"id_parent_atlas": 470,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 476,
+"libelle_structure": "Com Dinguiraye",
+"id_parent_atlas": 475,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 477,
+"libelle_structure": "Com Kerewane",
+"id_parent_atlas": 475,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 478,
+"libelle_structure": "Com Niaming",
+"id_parent_atlas": 475,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 482,
+"libelle_structure": "Com Bonconto",
+"id_parent_atlas": 481,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 483,
+"libelle_structure": "Com Linkering",
+"id_parent_atlas": 481,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 484,
+"libelle_structure": "Com Madina Gounasse",
+"id_parent_atlas": 481,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 485,
+"libelle_structure": "Com Sinthiang Koundara",
+"id_parent_atlas": 481,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 487,
+"libelle_structure": "Com Ouassadou",
+"id_parent_atlas": 486,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 488,
+"libelle_structure": "Com Pakour",
+"id_parent_atlas": 486,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 489,
+"libelle_structure": "Com Paroumba",
+"id_parent_atlas": 486,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 491,
+"libelle_structure": "Com Kandia",
+"id_parent_atlas": 490,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 492,
+"libelle_structure": "Com Kandiaye",
+"id_parent_atlas": 490,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 493,
+"libelle_structure": "Com Nemataba",
+"id_parent_atlas": 490,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 494,
+"libelle_structure": "Com Sare Coly Salle",
+"id_parent_atlas": 490,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 499,
+"libelle_structure": "Com Darou Marnane",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 500,
+"libelle_structure": "Com Darou Mousty",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 501,
+"libelle_structure": "Com Mbacke Cadior",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 502,
+"libelle_structure": "Com Mbadiane",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 503,
+"libelle_structure": "Com Ndoyène",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 504,
+"libelle_structure": "Com Sam Yabal",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 505,
+"libelle_structure": "Com Touba Mérina",
+"id_parent_atlas": 498,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 507,
+"libelle_structure": "Com Bandegne Ouolof",
+"id_parent_atlas": 506,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 508,
+"libelle_structure": "Com Diokoul Diawrigne",
+"id_parent_atlas": 506,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 509,
+"libelle_structure": "Com Kab Gaye",
+"id_parent_atlas": 506,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 510,
+"libelle_structure": "Com Ndande",
+"id_parent_atlas": 506,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 511,
+"libelle_structure": "Com Thiepe",
+"id_parent_atlas": 506,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 513,
+"libelle_structure": "Com Kanène Ndiob",
+"id_parent_atlas": 512,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 514,
+"libelle_structure": "Com Loro",
+"id_parent_atlas": 512,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 515,
+"libelle_structure": "Com Ngourane Ouolof",
+"id_parent_atlas": 512,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 516,
+"libelle_structure": "Com Sagatta Gueth",
+"id_parent_atlas": 512,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 517,
+"libelle_structure": "Com Thiolom Fall",
+"id_parent_atlas": 512,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 521,
+"libelle_structure": "Com Barkédji",
+"id_parent_atlas": 520,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 522,
+"libelle_structure": "Com Gassane",
+"id_parent_atlas": 520,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 523,
+"libelle_structure": "Com Thiargny",
+"id_parent_atlas": 520,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 524,
+"libelle_structure": "Com Thiel",
+"id_parent_atlas": 520,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 526,
+"libelle_structure": "Com Dodji",
+"id_parent_atlas": 525,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 527,
+"libelle_structure": "Com Lagbar",
+"id_parent_atlas": 525,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 528,
+"libelle_structure": "Com Ouarkhokh",
+"id_parent_atlas": 525,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 530,
+"libelle_structure": "Com Affe Djolof",
+"id_parent_atlas": 529,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 531,
+"libelle_structure": "Com Boulal",
+"id_parent_atlas": 529,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 532,
+"libelle_structure": "Com Dealy",
+"id_parent_atlas": 529,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 533,
+"libelle_structure": "Com Sagatta Djolof",
+"id_parent_atlas": 529,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 534,
+"libelle_structure": "Com Thiamene Pase",
+"id_parent_atlas": 529,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 536,
+"libelle_structure": "Com Kambe",
+"id_parent_atlas": 535,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 537,
+"libelle_structure": "Com Mboula",
+"id_parent_atlas": 535,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 538,
+"libelle_structure": "Com Tessekere Forage",
+"id_parent_atlas": 535,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 539,
+"libelle_structure": "Com Yang Yang",
+"id_parent_atlas": 535,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 544,
+"libelle_structure": "Com Gande",
+"id_parent_atlas": 543,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 545,
+"libelle_structure": "Com Keur Momar Sarr",
+"id_parent_atlas": 543,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 546,
+"libelle_structure": "Com Nguer Malal",
+"id_parent_atlas": 543,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 547,
+"libelle_structure": "Com Syer",
+"id_parent_atlas": 543,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 549,
+"libelle_structure": "Com Guet Ardo",
+"id_parent_atlas": 548,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 550,
+"libelle_structure": "Com Koki",
+"id_parent_atlas": 548,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 551,
+"libelle_structure": "Com Pete Ouarack",
+"id_parent_atlas": 548,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 552,
+"libelle_structure": "Com Thiamene Cayor",
+"id_parent_atlas": 548,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 554,
+"libelle_structure": "Com Kelle Gueye",
+"id_parent_atlas": 553,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 555,
+"libelle_structure": "Com Mbediene",
+"id_parent_atlas": 553,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 556,
+"libelle_structure": "Com Nguidile",
+"id_parent_atlas": 553,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 557,
+"libelle_structure": "Com Niomre",
+"id_parent_atlas": 553,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 559,
+"libelle_structure": "Com Leona",
+"id_parent_atlas": 558,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 560,
+"libelle_structure": "Com Ngueune Sarr",
+"id_parent_atlas": 558,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 561,
+"libelle_structure": "Com Sakal",
+"id_parent_atlas": 558,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 565,
+"libelle_structure": "Com Aoure",
+"id_parent_atlas": 564,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 566,
+"libelle_structure": "Com Bokiladji",
+"id_parent_atlas": 564,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 567,
+"libelle_structure": "Com Orkadiere",
+"id_parent_atlas": 564,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 569,
+"libelle_structure": "Com Ndendory",
+"id_parent_atlas": 568,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 570,
+"libelle_structure": "Com Ouro Sidy",
+"id_parent_atlas": 568,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 579,
+"libelle_structure": "Com Agnam Civol",
+"id_parent_atlas": 578,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 580,
+"libelle_structure": "Com Dabia",
+"id_parent_atlas": 578,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 581,
+"libelle_structure": "Com Orefonde",
+"id_parent_atlas": 578,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 583,
+"libelle_structure": "Com Bokidiawe",
+"id_parent_atlas": 582,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 584,
+"libelle_structure": "Com Nabadji Civol",
+"id_parent_atlas": 582,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 585,
+"libelle_structure": "Com Ogo",
+"id_parent_atlas": 582,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 591,
+"libelle_structure": "Com Lougre Thioli",
+"id_parent_atlas": 590,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 592,
+"libelle_structure": "Com Oudalaye",
+"id_parent_atlas": 590,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 593,
+"libelle_structure": "Com Velingara",
+"id_parent_atlas": 590,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 618,
+"libelle_structure": "Com Boghal",
+"id_parent_atlas": 617,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 619,
+"libelle_structure": "Com Djinany",
+"id_parent_atlas": 617,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 620,
+"libelle_structure": "Com Ndiamacouta",
+"id_parent_atlas": 617,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 621,
+"libelle_structure": "Com Ndiamalathiel",
+"id_parent_atlas": 617,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 622,
+"libelle_structure": "Com Tankon",
+"id_parent_atlas": 617,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 624,
+"libelle_structure": "Com Bona",
+"id_parent_atlas": 623,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 625,
+"libelle_structure": "Com Diacounda",
+"id_parent_atlas": 623,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 626,
+"libelle_structure": "Com Inor",
+"id_parent_atlas": 623,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 627,
+"libelle_structure": "Com Kandion Mangana",
+"id_parent_atlas": 623,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 629,
+"libelle_structure": "Com Diambaty",
+"id_parent_atlas": 628,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 630,
+"libelle_structure": "Com Diaroume",
+"id_parent_atlas": 628,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 631,
+"libelle_structure": "Com Faoune",
+"id_parent_atlas": 628,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 636,
+"libelle_structure": "Com Djibanar",
+"id_parent_atlas": 635,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 637,
+"libelle_structure": "Com Kaour",
+"id_parent_atlas": 635,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 638,
+"libelle_structure": "Com Mangaroungou Santo",
+"id_parent_atlas": 635,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 639,
+"libelle_structure": "Com Simbandi Balante",
+"id_parent_atlas": 635,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 640,
+"libelle_structure": "Com Yarang Balante",
+"id_parent_atlas": 635,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 642,
+"libelle_structure": "Com Karantaba",
+"id_parent_atlas": 641,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 643,
+"libelle_structure": "Com Kolibantang",
+"id_parent_atlas": 641,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 645,
+"libelle_structure": "Com Baghere",
+"id_parent_atlas": 644,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 646,
+"libelle_structure": "Com Diouboudou",
+"id_parent_atlas": 644,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 647,
+"libelle_structure": "Com Niagha",
+"id_parent_atlas": 644,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 648,
+"libelle_structure": "Com Simbandi Brassou",
+"id_parent_atlas": 644,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 654,
+"libelle_structure": "Com Diende",
+"id_parent_atlas": 653,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 655,
+"libelle_structure": "Com Koussy",
+"id_parent_atlas": 653,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 656,
+"libelle_structure": "Com Oudougar",
+"id_parent_atlas": 653,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 657,
+"libelle_structure": "Com Sakar",
+"id_parent_atlas": 653,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 658,
+"libelle_structure": "Com Sama Kanta Peul",
+"id_parent_atlas": 653,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 660,
+"libelle_structure": "Com Benet Bijini",
+"id_parent_atlas": 659,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 661,
+"libelle_structure": "Com Djibabouya",
+"id_parent_atlas": 659,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 662,
+"libelle_structure": "Com Sansamba",
+"id_parent_atlas": 659,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 664,
+"libelle_structure": "Com Bambali",
+"id_parent_atlas": 663,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 665,
+"libelle_structure": "Com Djiredji",
+"id_parent_atlas": 663,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 670,
+"libelle_structure": "Com Mbane",
+"id_parent_atlas": 669,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 671,
+"libelle_structure": "Com Mbokhol",
+"id_parent_atlas": 669,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 673,
+"libelle_structure": "Com Diama",
+"id_parent_atlas": 672,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 674,
+"libelle_structure": "Com Ngnith",
+"id_parent_atlas": 672,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 675,
+"libelle_structure": "Com Ronkh",
+"id_parent_atlas": 672,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 683,
+"libelle_structure": "Com Doumga Lao",
+"id_parent_atlas": 682,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 684,
+"libelle_structure": "Com Madina Ndiatbe",
+"id_parent_atlas": 682,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 685,
+"libelle_structure": "Com Meri",
+"id_parent_atlas": 682,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 687,
+"libelle_structure": "Com Boke Dialloube",
+"id_parent_atlas": 686,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 688,
+"libelle_structure": "Com Mbollo Birane",
+"id_parent_atlas": 686,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 697,
+"libelle_structure": "Com Dodel",
+"id_parent_atlas": 696,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 698,
+"libelle_structure": "Com Gamadji Sare",
+"id_parent_atlas": 696,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 699,
+"libelle_structure": "Com Guede Village",
+"id_parent_atlas": 696,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 701,
+"libelle_structure": "Com Fanaye",
+"id_parent_atlas": 700,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 702,
+"libelle_structure": "Com Ndiayene Peindao",
+"id_parent_atlas": 700,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 710,
+"libelle_structure": "Com Fass Ngom",
+"id_parent_atlas": 709,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 711,
+"libelle_structure": "Com Gandon",
+"id_parent_atlas": 709,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 712,
+"libelle_structure": "Com Ndiebene Gandiol",
+"id_parent_atlas": 709,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 715,
+"libelle_structure": "Com Bele",
+"id_parent_atlas": 714,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 716,
+"libelle_structure": "Com Sinthiou Fissa",
+"id_parent_atlas": 714,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 718,
+"libelle_structure": "Com Gathiari",
+"id_parent_atlas": 717,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 719,
+"libelle_structure": "Com Madina Foulbe",
+"id_parent_atlas": 717,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 720,
+"libelle_structure": "Com Sadatou",
+"id_parent_atlas": 717,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 721,
+"libelle_structure": "Com Toumboura",
+"id_parent_atlas": 717,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 723,
+"libelle_structure": "Com Ballou",
+"id_parent_atlas": 722,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 724,
+"libelle_structure": "Com Gabou",
+"id_parent_atlas": 722,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 725,
+"libelle_structure": "Com Mouderi",
+"id_parent_atlas": 722,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 730,
+"libelle_structure": "Com Bala",
+"id_parent_atlas": 729,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 731,
+"libelle_structure": "Com Goumbayel",
+"id_parent_atlas": 729,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 733,
+"libelle_structure": "Com Koar",
+"id_parent_atlas": 729,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 735,
+"libelle_structure": "Com Boynguel Bamba",
+"id_parent_atlas": 734,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 736,
+"libelle_structure": "Com Dougue",
+"id_parent_atlas": 734,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 737,
+"libelle_structure": "Com Koussan",
+"id_parent_atlas": 734,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 738,
+"libelle_structure": "Com Sinthiou Mamadou Boubou",
+"id_parent_atlas": 734,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 740,
+"libelle_structure": "Com Bani Israel",
+"id_parent_atlas": 739,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 741,
+"libelle_structure": "Com Boutoucoufara",
+"id_parent_atlas": 739,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 742,
+"libelle_structure": "Com Dianke Makha",
+"id_parent_atlas": 739,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 743,
+"libelle_structure": "Com Komoti",
+"id_parent_atlas": 739,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 745,
+"libelle_structure": "Com Koulor",
+"id_parent_atlas": 744,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 746,
+"libelle_structure": "Com Sinthiou Bocar Ali",
+"id_parent_atlas": 744,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 750,
+"libelle_structure": "Com Bamba Thialene",
+"id_parent_atlas": 749,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 751,
+"libelle_structure": "Com Kahel",
+"id_parent_atlas": 749,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 752,
+"libelle_structure": "Com Mereto",
+"id_parent_atlas": 749,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 753,
+"libelle_structure": "Com Ndame",
+"id_parent_atlas": 749,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 755,
+"libelle_structure": "Com Kouthia Gaydi",
+"id_parent_atlas": 754,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 756,
+"libelle_structure": "Com Kouthiaba Wolof",
+"id_parent_atlas": 754,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 757,
+"libelle_structure": "Com Pass Koto",
+"id_parent_atlas": 754,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 758,
+"libelle_structure": "Com Payar ",
+"id_parent_atlas": 754,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 762,
+"libelle_structure": "Com Koussanar",
+"id_parent_atlas": 761,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 763,
+"libelle_structure": "Com Sinthiou Malene",
+"id_parent_atlas": 761,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 765,
+"libelle_structure": "Com Maka",
+"id_parent_atlas": 764,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 766,
+"libelle_structure": "Com Ndoga Babacar",
+"id_parent_atlas": 764,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 767,
+"libelle_structure": "Com Niani Toucouleur",
+"id_parent_atlas": 764,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 769,
+"libelle_structure": "Com Dialokoto",
+"id_parent_atlas": 768,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 770,
+"libelle_structure": "Com Missirah",
+"id_parent_atlas": 768,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 771,
+"libelle_structure": "Com Netteboulou",
+"id_parent_atlas": 768,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 774,
+"libelle_structure": "Com Djibidione",
+"id_parent_atlas": 773,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 775,
+"libelle_structure": "Com Oulampane",
+"id_parent_atlas": 773,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 776,
+"libelle_structure": "Com Sindian",
+"id_parent_atlas": 773,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 777,
+"libelle_structure": "Com Suelle",
+"id_parent_atlas": 773,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 779,
+"libelle_structure": "Com Coubalan",
+"id_parent_atlas": 778,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 780,
+"libelle_structure": "Com Niamone",
+"id_parent_atlas": 778,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 781,
+"libelle_structure": "Com Ouonck",
+"id_parent_atlas": 778,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 782,
+"libelle_structure": "Com Tenghory",
+"id_parent_atlas": 778,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 785,
+"libelle_structure": "Com Djiniaki",
+"id_parent_atlas": 784,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 786,
+"libelle_structure": "Com Kafountine",
+"id_parent_atlas": 784,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 787,
+"libelle_structure": "Com Kataba 1",
+"id_parent_atlas": 784,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 789,
+"libelle_structure": "Com Balingore",
+"id_parent_atlas": 788,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 790,
+"libelle_structure": "Com Diegoune",
+"id_parent_atlas": 788,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 791,
+"libelle_structure": "Com Karthiack",
+"id_parent_atlas": 788,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 792,
+"libelle_structure": "Com Mangagoulack",
+"id_parent_atlas": 788,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 793,
+"libelle_structure": "Com Mlomp",
+"id_parent_atlas": 788,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 797,
+"libelle_structure": "Com Diembering",
+"id_parent_atlas": 796,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 798,
+"libelle_structure": "Com Santhiaba Mandjack",
+"id_parent_atlas": 796,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 800,
+"libelle_structure": "Com Mlomp",
+"id_parent_atlas": 799,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 801,
+"libelle_structure": "Com Oukout",
+"id_parent_atlas": 799,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 804,
+"libelle_structure": "Com Adéane",
+"id_parent_atlas": 803,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 805,
+"libelle_structure": "Com Boutoupa Cam",
+"id_parent_atlas": 803,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 806,
+"libelle_structure": "Com Niaguis",
+"id_parent_atlas": 803,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 808,
+"libelle_structure": "Com Enampor",
+"id_parent_atlas": 807,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 809,
+"libelle_structure": "Com Niassia",
+"id_parent_atlas": 807,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+},
+{
+"id_atlas": 811,
+"libelle_structure": "Com Diannah ba",
+"id_parent_atlas": 653,
+"id_hierarchie": 13,
+"libelle_hierarchie": "Commune"
+}
+]
